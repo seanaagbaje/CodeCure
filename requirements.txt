@@ -1,0 +1,9 @@
+Flask
+Flask-Static-Compress
+Werkzeug
+cssutils
+flask
+gunicorn
+html5lib
+js2py
+pylint
